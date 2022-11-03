@@ -1,3 +1,24 @@
+How it looks
+
+![obraz](https://user-images.githubusercontent.com/102172769/199799642-9f883c56-3f29-47a4-9667-8eb4d0e264c4.png)
+
+User can add expenses to track how they spent in each year. 
+In future I will add option to store data to be saved after quitting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
